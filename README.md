@@ -21,7 +21,7 @@
 - 🎓 &nbsp; Apesar de estar buscando uma transição de carreira, sou formado em História e estou fazendo mestrado na Universidade Federal de Santa Catarina (UFSC).
 - ❤ &nbsp; Sou casado com Ana Carolina Zimmermann e moramos juntos com nossos sete gatos.
 - ⚽ &nbsp; Meus hobbies preferidos são jogar futebol e sair com amigos. Sou flamenguista e fãnzaço do Gabigol.
-- 📫 &nbsp; Para entrar em contato, me envie um email para <strong>martinpezbach@gmail.com</strong> ou uma mensagem no meu perfil do [LinkedIn](https://www.linkedin.com/in/martin-p-bachmann)!
+- 📫 &nbsp; Para entrar em contato, envie um email para <strong>martinpezbach@gmail.com</strong>, ou uma mensagem no meu perfil do **[LinkedIn](https://www.linkedin.com/in/martin-p-bachmann)**!
 <br>
 
 **Linguagens e ferramentas:**  
