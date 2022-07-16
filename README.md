@@ -12,7 +12,7 @@
 <br>
 <br>
 <div align="justify">
-  Meu nome é <strong>Martin Pezzini Bachmann</strong>, moro em Belo Horizonte-MG, e estou estudando na <strong>Trybe</strong> para me tornar um Desenvolvedor Web.
+  Meu nome é <strong>Martin Pezzini Bachmann</strong> e moro em Belo Horizonte-MG. Sou estudante de Desenvolvimento Web na <strong>Trybe</strong>. Minha meta para os próximos anos é construir uma carreira como programador. 
  </div>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
