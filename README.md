@@ -17,7 +17,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Adoro buscar soluções criativas e eficientes para problemas do dia a dia, e isso foi uma das coisas que me aproximou da programação.
+- 🤔 &nbsp; Adoro buscar soluções criativas e eficientes para problemas do dia a dia e isso foi uma das coisas que me aproximou da programação.
 - 🎓 &nbsp; Apesar de estar buscando uma transição de carreira, sou formado em História e estou fazendo mestrado na Universidade Federal de Santa Catarina (UFSC).
 - ❤ &nbsp; Sou casado com Ana Carolina Zimmermann e moramos junto com nossos sete gatos.
 - ⚽ &nbsp; Meus hobbies preferidos são jogar futebol e sair com amigos. Sou flamenguista e fãnzaço do Gabigol.
