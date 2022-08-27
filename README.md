@@ -63,6 +63,12 @@
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
+  <a href="http://expressjs.com/">
+    <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  </a>
+  <a href="https://mochajs.org/">
+    <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  </a>
 </p>
 <br>
 
