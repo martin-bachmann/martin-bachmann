@@ -12,12 +12,12 @@
 <br>
 <br>
 
-  Meu nome é <strong>Martin Pezzini Bachmann</strong> e moro em Belo Horizonte-MG. Sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**. Minha meta para os próximos anos é construir uma carreira como programador. :rocket:
+  Meu nome é <strong>Martin Pezzini Bachmann</strong> e moro em Belo Horizonte-MG. Sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**. Minha meta para os próximos anos é construir uma carreira como programador, com foco em oportunidades para Back-end e Full-Stack. :rocket:
  
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Adoro buscar soluções criativas e eficientes para problemas do dia a dia e isso foi uma das coisas que me aproximou da programação.
+- 🤔 &nbsp; Adoro buscar soluções criativas e eficientes para problemas do dia-a-dia e essa foi uma das coisas que me aproximou da programação.
 - 🎓 &nbsp; Apesar de estar buscando uma transição de carreira, sou formado em História e estou fazendo mestrado na Universidade Federal de Santa Catarina (UFSC).
 - ❤ &nbsp; Sou casado com Ana Carolina Zimmermann e moramos juntos com nossos sete gatos.
 - ⚽ &nbsp; Meus hobbies preferidos são jogar futebol e sair com amigos. Sou flamenguista e fãnzaço do Gabigol.
