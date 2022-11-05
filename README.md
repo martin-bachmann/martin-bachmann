@@ -69,11 +69,14 @@
   <a href="https://mochajs.org/">
     <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   </a>
-  <a href="https://mochajs.org/](https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/">
     <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
-  <a href="https://mochajs.org/](https://sequelize.org/">
+  <a href="https://sequelize.org/">
     <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
 </p>
 <br>
