@@ -85,7 +85,10 @@
 
 <p align="left">
   <a href="https://www.betrybe.com/">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Eg8INSNe--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" alt="trybe" width="40" height="40"/> 
+    <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Eg8INSNe--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" alt="trybe" width="40" height="40"/> 
+  </a>
+  <a href="https://web.dio.me/users/martinpezbach?tab=achievements">
+    <img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo.png" alt="trybe" width="60" height="25"/> 
   </a>
 </p>
 <br>
