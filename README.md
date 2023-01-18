@@ -115,11 +115,6 @@
 </p>
 <br>
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-bachmann)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-bachmann&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa), [GabrielCoruja](https://github.com/GabrielCoruja), [AVS1508](https://github.com/AVS1508) e [johnatas-henrique](https://github.com/johnatas-henrique)
 
 <!--
