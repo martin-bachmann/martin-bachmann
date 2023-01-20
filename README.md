@@ -49,8 +49,11 @@
   <a href="https://www.mongodb.com/">
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   </a>
+  <a href="https://www.python.org/">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  </a>
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   </a>
 </p>
 <br>
@@ -126,10 +129,6 @@ Twitter tag:
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-Other techs:
-  
-  <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 
 <p align="left">
   <a href="https://git-scm.com/">
