@@ -118,9 +118,11 @@
 </p>
 <br>
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-bachmann&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-bachmann&langs_count=6&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martin-bachmann&theme=transparent"/>
+  <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-bachmann&langs_count=6&layout=compact&theme=transparent"/>
+</div>
+<br>
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa), [GabrielCoruja](https://github.com/GabrielCoruja), [AVS1508](https://github.com/AVS1508) e [johnatas-henrique](https://github.com/johnatas-henrique)
 
@@ -129,6 +131,8 @@ Twitter tag:
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+<img align="right" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-bachmann"/>
 
 <p align="left">
   <a href="https://git-scm.com/">
