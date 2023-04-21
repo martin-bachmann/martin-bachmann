@@ -1,4 +1,4 @@
-## Bom dia! </h2>
+## Hello! </h2>
 
 <a href="https://www.linkedin.com/in/martin-p-bachmann/">
   <img align="left" alt="Martin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,19 +12,18 @@
 <br>
 <br>
 
-  Meu nome é <strong>Martin Pezzini Bachmann</strong> e moro em Belo Horizonte-MG. Sou estudante de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**. Minha meta para os próximos anos é construir uma carreira como programador, com foco em oportunidades para Back-end e Full-Stack. :rocket:
+  My name is <strong>Martin Pezzini Bachmann</strong> and I'm a Full Stack Developer, currently working at Highnote. :rocket:
  
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Adoro buscar soluções criativas e eficientes para problemas do dia-a-dia e essa foi uma das coisas que me aproximou da programação.
-- 🎓 &nbsp; Apesar de estar buscando uma transição de carreira, sou formado em História.
-- ❤ &nbsp; Sou casado com Ana Carolina Zimmermann e moramos juntos com nossos sete gatos.
-- ⚽ &nbsp; Meus hobbies preferidos são jogar futebol e sair com amigos. Sou flamenguista e fãnzaço do Gabigol.
-- 📫 &nbsp; Para entrar em contato, envie um email para <strong>martinpezbach@gmail.com</strong>, ou uma mensagem no meu perfil do **[LinkedIn](https://www.linkedin.com/in/martin-p-bachmann)**!
+- 🤔 &nbsp; I love to seek creative and efficient solutions for day-to-day problems and this was one of the things that brought me closer to programming.
+- 🎓 &nbsp; I studied web development at **[Trybe](https://www.betrybe.com/)**. Despite working as a programmer, I have a degree in History.
+- ❤ &nbsp; I am married to Ana Carolina Zimmermann and we live together with our seven cats..
+- 📫 &nbsp; To get in touch, please send an email to <strong>martinpezbach@gmail.com</strong>, or a message on my **[LinkedIn](https://www.linkedin.com/in/martin-p-bachmann)** profile!
 <br>
 
-**Linguagens e ferramentas:**
+**Stacks:**
 
 ***Back-End***
 <p align="left">
@@ -78,7 +77,7 @@
 </p>
 <br>
 
-***Testes***
+***Tests***
 <p align="left">
   <a href="https://testing-library.com/">
     <img align="center" alt="React Testing Library" height="40" width="50" src="https://testing-library.com/img/octopus-64x64.png">
@@ -92,7 +91,7 @@
 </p>
 <br>
 
-***Outros***
+***Others***
 <p align="left">
   <a href="https://git-scm.com/">
     <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -106,7 +105,7 @@
 </p>
 <br>
 
-**Formações:**  
+**Training:**  
 
 <p align="left">
   <a href="https://www.betrybe.com/">
