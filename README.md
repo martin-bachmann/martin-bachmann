@@ -19,7 +19,7 @@
 
 - 🤔 &nbsp; I love to seek creative and efficient solutions for day-to-day problems and this was one of the things that brought me closer to programming.
 - 🎓 &nbsp; I studied web development at **[Trybe](https://www.betrybe.com/)**. Despite working as a programmer, I have a degree in History.
-- ❤ &nbsp; I am married to Ana Carolina Zimmermann and we live together with our seven cats..
+- ❤ &nbsp; I am married to Ana Carolina Zimmermann and we live together with our seven cats.
 - 📫 &nbsp; To get in touch, please send an email to <strong>martinpezbach@gmail.com</strong>, or a message on my **[LinkedIn](https://www.linkedin.com/in/martin-p-bachmann)** profile!
 <br>
 
