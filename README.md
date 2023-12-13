@@ -15,7 +15,7 @@
   My name is <strong>Martin Pezzini Bachmann</strong> and I'm a Full Stack Developer, currently working at Highnote. :rocket:
  
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+<h3> 👨🏻‍💻 &nbsp;About me </h3>
 
 - 🤔 &nbsp; I love to seek creative and efficient solutions for day-to-day problems and this was one of the things that brought me closer to programming.
 - 🎓 &nbsp; I studied web development at **[Trybe](https://www.betrybe.com/)**. Despite working as a programmer, I have a degree in History.
